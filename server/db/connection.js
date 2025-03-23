@@ -1,6 +1,6 @@
 import { MongoClient, ServerApiVersion } from "mongodb";
 
-const URI = process.env.ATLAS_URI || "";
+const URI =  "mongodb://localhost:27017/employeeDB" || "";
 const client = new MongoClient(URI, {
   serverApi: {
     version: ServerApiVersion.v1,
@@ -8,7 +8,6 @@ const client = new MongoClient(URI, {
     deprecationErrors: true,
   },
 });
-
 try {
   // Connect the client to the server
   await client.connect();
