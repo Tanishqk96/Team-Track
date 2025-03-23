@@ -390,51 +390,6 @@ export default function RecordForm() {
 }
 ```
 
-
-
-
-
-
-
-
-
-
----
-<br>
-
-## Screenshots 🖼️ -
-## `RecordList` Component: 🖼️
-##### This is what the landing page of the record component will look like after we’ve added records:
-![RecordList](https://github.com/shanibider/Full-Stack-MERN-Employee-Database-Application/assets/72359805/941cecd4-63ab-44c9-be7f-4d9988ba4dd5)
-
-##### Edit Record:
-![Edit button clicked](https://github.com/shanibider/Full-Stack-MERN-Employee-Database-Application/assets/72359805/15fa784e-ddae-4405-9b9c-e32e9e709e7c)
-
-
-## `RecordForm` Component: 🖼️
-##### This is what the screen that lets you add an employee will look like:
-![RecordForm](https://github.com/shanibider/Full-Stack-MERN-Employee-Database-Application/assets/72359805/9c5b3817-6d52-4f9d-be82-921dab2ee50f)
-
-
-## MongoDB Atlas Database: 🖼️
-##### Project: `React-Projects`, Database: `employees`, collection: `records` 🛢 -
-![mongodb](https://github.com/shanibider/Full-Stack-MERN-Employee-Database-Application/assets/72359805/f547c66c-dab1-4cd0-ad4c-23c0fb92161f)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
 
 ---
@@ -1337,23 +1292,3 @@ cd mern/client
 npm install
 npm run dev
 ```
-
-
-<img height="450px" align=center src="https://github.com/shanibider/Full-Stack-MERN-Employee-Database-Application/assets/72359805/bc6920c2-8797-401e-94ad-11a14d19ec1b">
-
-<br>
-
----
-<br>
-
-
-## 📫 Connect with me 😊
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shani-bider/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shanibider.onrender.com/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanibider@gmail.com)
-
-<footer>
-<p style="float:left; width: 20%;">
-Copyright © Shani Bider, 2024
-</p>
-</footer>
